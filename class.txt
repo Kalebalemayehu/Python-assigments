@@ -1,0 +1,14 @@
+graphics
+
+graphics. py simplified tkinter
+
+
+import graphics.py
+win = GraphWin()
+
+from graphics import *
+circ = Circle(point(100, 100), 30)
+Win = GraphWin()
+circ.draw(win)
+win..getmouse()
+win.close()
